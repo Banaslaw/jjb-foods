@@ -362,7 +362,7 @@ html {
 .hero {
   width: 100%;
   height: 700px;
-  background-image: url(stan.jpg);
+  background-image: url(stan.png);
   background-position: center;
   background-size: cover;
   position: relative;
